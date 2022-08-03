@@ -20,4 +20,4 @@ Go to your localhost
 
 
 Follow this medium article for more instruction!
-[https://medium.com/@moises.trejo0/express-react-mui-typescript-heroku-app-9f85cda54451](Medium Article)
+(https://medium.com/@moises.trejo0/express-react-mui-typescript-heroku-app-9f85cda54451)[Medium Article]
