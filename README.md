@@ -4,13 +4,16 @@ In `backend` run:
 
 ```npm i
 cd backend
-npm run awesome```
+npm run awesome
+```
 
 In `frontend` run:
 
-```npm i
+```
+npm i
 cd frontend
-npm run serve```
+npm run serve
+```
 
 Go to your localhost
 `http://localhost:3000/`
